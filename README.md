@@ -23,25 +23,25 @@
 <br>Hughes, R. W.
  
 [The role of articulatory rehearsal in short-term false memories during ageing.](<https://doi.org/10.1177/17470218241269320>) 
-Piroelle, M., Guette, C., & Abadie, M.
+<br>Piroelle, M., Guette, C., & Abadie, M.
 
 [Investigating a Metrical Hebb Effect for lists of words.](<https://doi.org/10.1177/17470218241285884>)
-Paice, A. W., Johnson, A. J., Legg, R., Smalle, E., & Page, M. P. A.
+<br>Paice, A. W., Johnson, A. J., Legg, R., Smalle, E., & Page, M. P. A.
  
 [The Working Memory Model and the relationship between immediate serial recall and immediate free recall.](<https://doi.org/10.1177/17470218241282093>)
-Ward, G., & Beaman, P. C.
+<br>Ward, G., & Beaman, P. C.
  
 [What are the benefits of directed attention within verbal working memory?](<https://doi.org/10.1177/17470218241299918>)
-Jeanneret, S., Vergauwe, E., Hautekiet, C., & Langerock, N.
+<br>Jeanneret, S., Vergauwe, E., Hautekiet, C., & Langerock, N.
 
 [Towards theoretically understanding how long-term memory semantics can support working memory performance.](<https://doi.org/10.1177/17470218241284414>)
-Hart, R., Logie, R. H., & Brown Nicholls, L. A.
+<br>Hart, R., Logie, R. H., & Brown Nicholls, L. A.
  
 [Navigating the mind’s eye: Understanding gaze shifts in visuospatial bootstrapping.](<https://doi.org/10.1177/17470218241282426>)
-Nikolov, T. Y., Allen, R. J., Havelka, J., Darling, S., van de Vegte, B., & Morey, C. C.
+<br>Nikolov, T. Y., Allen, R. J., Havelka, J., Darling, S., van de Vegte, B., & Morey, C. C.
 
 [Getting value out of working memory through strategic prioritisation: Implications for storage and control.](<https://doi.org/10.1177/17470218241258102>)
-Allen, R. J., Atkinson, A. L., & Hitch, G. J.
+<br>Allen, R. J., Atkinson, A. L., & Hitch, G. J.
 
 [Revisiting Working Memory Fifty Years after Baddeley and Hitch: A Review of Field-specific Conceptualizations, Use and Misuse, and Paths Forward for Studying Children.](<https://doi.org/10.1177/17470218241301701>)
-Miller-Cotto, D., & Gordon, R.
+<br>Miller-Cotto, D., & Gordon, R.
