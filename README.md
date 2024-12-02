@@ -14,13 +14,13 @@
 ## List of Papers:  
 
 [Working memory gets a workout: reviewing the legacy of Baddeley and Hitch (1974) fifty years on (Editorial)](<https://doi.org/10.1177/17470218241301759>)
-Towse, J. N., Hurlstone, M., Atkinson, A., Saito, S., & Logie, R. H.
+<br>Towse, J. N., Hurlstone, M., Atkinson, A., Saito, S., & Logie, R. H.
 
 [The Multicomponent Model of Working Memory Fifty Years on.](<https://doi.org/10.1177/17470218241290909>)
-Hitch, G. J., Allen, R. J., & Baddeley, A. D. (2024) 
+<br>Hitch, G. J., Allen, R. J., & Baddeley, A. D. (2024) 
 
 [The phonological store of working memory: A critique and an alternative, perceptual-motor, approach to verbal short-term memory.](<https://doi.org/10.1177/17470218241257885>)
-Hughes, R. W.
+<br>Hughes, R. W.
  
 [The role of articulatory rehearsal in short-term false memories during ageing.](<https://doi.org/10.1177/17470218241269320>) 
 Piroelle, M., Guette, C., & Abadie, M.
