@@ -16,42 +16,32 @@
 [Working memory gets a workout: reviewing the legacy of Baddeley and Hitch (1974) fifty years on (Editorial)](<https://doi.org/10.1177/17470218241301759>)
 Towse, J. N., Hurlstone, M., Atkinson, A., Saito, S., & Logie, R. H.
 
-The Multicomponent Model of Working Memory Fifty Years on.
+[The Multicomponent Model of Working Memory Fifty Years on.](<https://doi.org/10.1177/17470218241290909>)
 Hitch, G. J., Allen, R. J., & Baddeley, A. D. (2024) 
-https://doi.org/10.1177/17470218241290909
- 
-The phonological store of working memory: A critique and an alternative, perceptual-motor, approach to verbal short-term memory.
+
+[The phonological store of working memory: A critique and an alternative, perceptual-motor, approach to verbal short-term memory.](<https://doi.org/10.1177/17470218241257885>)
 Hughes, R. W.
-https://doi.org/10.1177/17470218241257885
  
-The role of articulatory rehearsal in short-term false memories during ageing. 
+[The role of articulatory rehearsal in short-term false memories during ageing.](<https://doi.org/10.1177/17470218241269320>) 
 Piroelle, M., Guette, C., & Abadie, M.
-https://doi.org/10.1177/17470218241269320
- 
-Investigating a Metrical Hebb Effect for lists of words.
+
+[Investigating a Metrical Hebb Effect for lists of words.](<https://doi.org/10.1177/17470218241285884>)
 Paice, A. W., Johnson, A. J., Legg, R., Smalle, E., & Page, M. P. A.
-https://doi.org/10.1177/17470218241285884
  
-The Working Memory Model and the relationship between immediate serial recall and immediate free recall.
+[The Working Memory Model and the relationship between immediate serial recall and immediate free recall.](<https://doi.org/10.1177/17470218241282093>)
 Ward, G., & Beaman, P. C.
-https://doi.org/10.1177/17470218241282093
  
-What are the benefits of directed attention within verbal working memory?
+[What are the benefits of directed attention within verbal working memory?](<https://doi.org/10.1177/17470218241299918>)
 Jeanneret, S., Vergauwe, E., Hautekiet, C., & Langerock, N.
-https://doi.org/10.1177/17470218241299918
- 
-Towards theoretically understanding how long-term memory semantics can support working memory performance.
+
+[Towards theoretically understanding how long-term memory semantics can support working memory performance.](<https://doi.org/10.1177/17470218241284414>)
 Hart, R., Logie, R. H., & Brown Nicholls, L. A.
-https://doi.org/10.1177/17470218241284414
  
-Navigating the mind’s eye: Understanding gaze shifts in visuospatial bootstrapping.
+[Navigating the mind’s eye: Understanding gaze shifts in visuospatial bootstrapping.](<https://doi.org/10.1177/17470218241282426>)
 Nikolov, T. Y., Allen, R. J., Havelka, J., Darling, S., van de Vegte, B., & Morey, C. C.
-https://doi.org/10.1177/17470218241282426
- 
-Getting value out of working memory through strategic prioritisation: Implications for storage and control.
+
+[Getting value out of working memory through strategic prioritisation: Implications for storage and control.](<https://doi.org/10.1177/17470218241258102>)
 Allen, R. J., Atkinson, A. L., & Hitch, G. J.
-https://doi.org/10.1177/17470218241258102
- 
-Revisiting Working Memory Fifty Years after Baddeley and Hitch: A Review of Field-specific Conceptualizations, Use and Misuse, and Paths Forward for Studying Children.
+
+[Revisiting Working Memory Fifty Years after Baddeley and Hitch: A Review of Field-specific Conceptualizations, Use and Misuse, and Paths Forward for Studying Children.](<https://doi.org/10.1177/17470218241301701>)
 Miller-Cotto, D., & Gordon, R.
-https://doi.org/10.1177/17470218241301701
