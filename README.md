@@ -13,7 +13,8 @@
 
 ## List of Papers:  
 
-
+[Working memory gets a workout: reviewing the legacy of Baddeley and Hitch (1974) fifty years on (Editorial)](<https://doi.org/10.1177/17470218241301759>)
+Towse, J. N., Hurlstone, M., Atkinson, A., Saito, S., & Logie, R. H.
 
 The Multicomponent Model of Working Memory Fifty Years on.
 Hitch, G. J., Allen, R. J., & Baddeley, A. D. (2024) 
